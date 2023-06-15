@@ -1,4 +1,4 @@
-module github.com/Lizhengyan/glog
+module github.com/sddxyangguo/glog
 
 go 1.12
 

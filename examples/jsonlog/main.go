@@ -5,7 +5,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/Lizhengyan/glog"
+	"github.com/sddxyangguo/glog"
 )
 
 func main() {

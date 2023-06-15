@@ -6,7 +6,7 @@
 
 ## Golang log library
 
-[![godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/Lizhengyan/glog) [![build status](https://img.shields.io/travis/Lizhengyan/glog/master.svg?style=flat-square)](https://travis-ci.org/Lizhengyan/glog)
+[![godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/sddxyangguo/glog) [![build status](https://img.shields.io/travis/sddxyangguo/glog/master.svg?style=flat-square)](https://travis-ci.org/sddxyangguo/glog)
 
 Package glog implements a log infrastructure for Go.
 
@@ -21,7 +21,7 @@ package main
 import (
 	"os"
 
-	"github.com/Lizhengyan/glog"
+	"github.com/sddxyangguo/glog"
 )
 
 func main() {
@@ -47,7 +47,7 @@ func main() {
 ## Installing
 
 ### Using *go get*
-    $ go get github.com/Lizhengyan/glog
+    $ go get github.com/sddxyangguo/glog
 
 You can use `go get -u` to update the package.
 
@@ -58,6 +58,6 @@ You can use `go get -u` to update the package.
 
 ## Documentation
 
-For docs, see http://godoc.org/github.com/Lizhengyan/glog or run:
+For docs, see http://godoc.org/github.com/sddxyangguo/glog or run:
 
-    $ godoc github.com/Lizhengyan/glog
+    $ godoc github.com/sddxyangguo/glog

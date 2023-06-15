@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/Lizhengyan/glog"
+	"github.com/sddxyangguo/glog"
 )
 
 func main() {
